@@ -84,7 +84,6 @@ public class pythagorean
 	        System.out.println(" b2 = " +b2+ " c2 = " +c2);
 	        
 	        double b = Math.sqrt(b2);
-	        System.out.println("b = " +b+ " c = " +c+ " a = " + a+" b2 = " +b2+ " c2 = " +c2+ " a2 = " + a2 );
 	        System.out.println("Side a = "+a+" Side b = "+b+" c is = "+c);
 	        return(b);
 	    }
@@ -106,7 +105,6 @@ public class pythagorean
 	        System.out.println(" b2 = " +b2+ " c2 = " +a2);
 	        
 	        double c = Math.sqrt(c2);
-	        System.out.println("b = " +b+ " c = " +c+ " a = " + a+" b2 = " +b2+ " c2 = " +c2+ " a2 = " + a2 );
 	        System.out.println("Side a = "+a+" Side b = "+b+" c is = "+c);
 	        return(c);	
 	    }
